@@ -1,0 +1,31 @@
+body{
+	margin: 0;
+	padding: 0;
+	font-family: monospace;
+	
+}
+.login-box{
+	width: 300px;
+	padding: 200px 250px 250px 280px;
+	color: #020202;
+	
+}
+.login-logo{
+			background: #FFFFFF;
+			border-radius: 100px;
+			width: 100px;
+		}
+.textbox{
+	width: 100%;
+	font-size: 13px;
+	padding: 6px 3px;
+	margin: 6px 3px;
+	
+}
+.login-box h3{
+	float: inherit;
+	font-size: 25px;
+	border-bottom: 6px solid #add;
+	margin-bottom:30px;
+	padding: 10px 0;
+}

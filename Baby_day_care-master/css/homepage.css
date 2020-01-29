@@ -1,0 +1,99 @@
+<style>
+body{
+	font-family: monospace;
+	font-weight:normal; 
+	padding: 10px;
+	margin: 0;
+	background: #fff
+	
+}
+.navbar {
+  overflow: hidden;
+  background-color: #333;
+}
+
+h3{
+	padding: 10px 10px 10px 10px;
+}
+.warpper{
+	width: 1240px ;
+	margin: auto;
+}
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color: red;
+}
+.navbar-right {
+  float: right;
+}
+nav{
+	padding:25px 0px 25px 0px;
+	float:left;
+	width:100%;
+	position:relative;
+	background-color: #333;
+	}
+	.navbar a {
+  float: left;
+  font-size: 16px;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}			
+.main{
+	width:320px;
+	text-align:left;
+	float:left;
+	position:relative;
+    overflow: hidden;
+}
+.main a{
+	font-weight:normal;
+	font-size: 16px;
+	line-height: 26px;
+	color: #40ff00;
+	text-decoration:none;
+	text-align: center;
+	padding: 6px 6px 6px 2px;
+}
+.main a:hover{
+	border-color: #ddd;
+	color: #fff;
+}
+.main a.active{
+	background: #e66666;
+	color: #fff;
+}
+.button{
+	width: 50px;
+	padding: 20px 20px 10px 20px;
+	text-align: center;
+	position: inherit;
+}
+
+a.btn{
+	border: 1px solid #fff;
+	padding: 3px 30px;
+	color:#E12E31;
+	text-decoration: none;
+	transition: 0.6s ease;
+	text-align: center;
+	
+}
+header{
+ 	float: inherit;
+	position: relative;
+}
+input[search]{text-align: center;}
+
+.mid{
+	width: 320px;
+	padding: 20px 0px 0px 0px;
+	text-align: left;
+	position: relative;
+	
+}
+.mid h3{
+	font-size:16px; font-weight:normal; line-height:19px; color:#000000
+}
+</style>
